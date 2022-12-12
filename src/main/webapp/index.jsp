@@ -1,7 +1,7 @@
 <html>
 <body>
 <h2>Welcome to ABC technologies</h2>
-<h3>This is retail portal-v2</h3>
+<h3>This is retail portal-v3</h3>
 <button name="Add Product" value="Add Product" type="button" onclick="addProduct()">Add Product</button>  
 <script>  
 function addProduct(){  
